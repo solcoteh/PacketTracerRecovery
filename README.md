@@ -22,7 +22,7 @@ You can then change the password to whatever you like in the 'Activity Wizard'.
 * Start PacketTracer7
 * Open your .pka
 * Start PacketTracerPatcher.exe
-* Go to PacketTracer7 and navigate to Extensions -> Activity Wizard (or press ctrl+w)
+* Go to PacketTracer and navigate to Extensions -> Activity Wizard (or press ctrl+w)
 * Enter 'Ferib' as password
 * Select Password in the left navigation
 * Enter new password and click Enable Password
